@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adibrisan
-- 👀 I’m interested in web developing.
+- 👀 I’m interested in web / mobile developing.
 - 🌱 I’m currently a React / React Native developer.
 - 💞️ I’m looking to collaborate on web / mobile apps.
 - 📫 How to reach me: adi.brisan@yahoo.com
