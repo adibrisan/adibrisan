@@ -3,7 +3,8 @@
 - 🌱 I’m currently a React / React Native developer.
 - 💞️ I’m looking to collaborate on web / mobile apps.
 - 📫 How to reach me: adi.brisan@yahoo.com
-- 📱  Phone: +40 770260451
+- 📱 Phone: +40 770260451
+- 📚 Portofolio: https://adibrisan.vercel.app/ 
 
 <!---
 adibrisan/adibrisan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
